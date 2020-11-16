@@ -6,3 +6,4 @@ export default class FishModel extends Model {
     @attr location;
     @attr season;
     @attr weather;
+};
