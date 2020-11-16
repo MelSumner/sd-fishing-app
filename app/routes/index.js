@@ -5,6 +5,14 @@ export default class IndexRoute extends Route {
     @service store;
 
     async model() {
-      return this.store.findAll('fish');
-    }
+        let response = await fetch('/api/fish.json');
+        let { data } = await response.json();
+    
+        return data.map(model => {
+          let { id, attributes } = model;
+          let type;
+    
+          return { id, type, ...attributes };
+        });
+      }
 }
