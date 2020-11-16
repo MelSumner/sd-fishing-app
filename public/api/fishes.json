@@ -1,6 +1,7 @@
 {
     "data": [
         {
+            "id": 1,
             "name": "Albacore",
             "price": {
                 "regular": 75,
@@ -12,6 +13,7 @@
             "season": ["Fall", "Winter"],
             "weather": "any"
         }, {
+            "id": 2,
             "name": "Anchovy",
             "price": {
                 "regular": 30,
@@ -23,6 +25,7 @@
             "season": ["Spring", "Fall"],
             "weather": "Any"
         }, {
+            "id": 3,
             "name": "Bream",
             "price": {
                 "regular": 45,
@@ -34,6 +37,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 4,
             "name": "Bullhead",
             "price": {
                 "regular": 75,
@@ -45,6 +49,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 5,
             "name": "Carp",
             "price": {
                 "regular": 30,
@@ -56,6 +61,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 6,
             "name": "Catfish",
             "price": {
                 "regular": 200,
@@ -67,6 +73,7 @@
             "season": ["Spring", "Summer"],
             "weather": "Rain"
         }, {
+            "id": 7,
             "name": "Chub",
             "price": {
                 "regular": 50,
@@ -78,6 +85,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 8,
             "name": "Dorado",
             "price": {
                 "regular": 100,
@@ -89,6 +97,7 @@
             "season": "Summer",
             "weather": "Any"
         }, {
+            "id": 9,
             "name": "Eel",
             "price": {
                 "regular": 85,
@@ -100,17 +109,19 @@
             "season": [ "spring", "fall"],
             "weather": "Rain"
         }, {
-        "name": "Flounder",
-        "price": {
-            "regular": 100,
-            "silver": 125,
-            "gold": 150,
-            "iridium": 200
-        },
-        "location": "Ocean",
-        "seasons": ["spring", "summer"],
-        "weather": "Any"
+            "id": 10,
+            "name": "Flounder",
+            "price": {
+                "regular": 100,
+                "silver": 125,
+                "gold": 150,
+                "iridium": 200
+            },
+            "location": "Ocean",
+            "seasons": ["spring", "summer"],
+            "weather": "Any"
         }, {
+            "id": 11,
             "name": "Ghostfish",
             "price": {
                 "regular": 45,
@@ -122,6 +133,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 12,
             "name": "Halibut",
             "price": {
                 "regular": 80,
@@ -133,6 +145,7 @@
             "seasons": ["spring", "summer", "winter"],
             "weather": "Any"
         }, {
+            "id": 13,
             "name": "Herring",
             "price": {
                 "regular": 30,
@@ -144,6 +157,7 @@
             "seasons": ["Spring", "Winter"],
             "weather": "Any"
         }, {
+            "id": 14,
             "name": "Ice Pip",
             "price": {
                 "regular": 500,
@@ -155,6 +169,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 15,
             "name": "Largemouth Bass",
             "price": {
                 "regular": 100,
@@ -166,6 +181,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 16,
             "name": "Lava Eel",
             "price": {
                 "regular": 700,
@@ -177,6 +193,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 17,
             "name": "Lingcod",
             "price": {
                 "regular": 120,
@@ -188,6 +205,7 @@
             "season": "Winter",
             "weather": "Any"
         }, {
+            "id": 18,
             "name": "Midnight Carp",
             "price": {
                 "regular": 150,
@@ -199,6 +217,7 @@
             "season": ["Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 19,
             "name": "Octopus",
             "price": {
                 "regular": 150,
@@ -210,17 +229,19 @@
             "season": "Summer",
             "weather": "Any"
         }, {
-        "name": "Perch",
-        "price": {
-            "regular": 55,
-            "silver": 68,
-            "gold": 82,
-            "iridium": 110
+            "id": 20,
+            "name": "Perch",
+            "price": {
+                "regular": 55,
+                "silver": 68,
+                "gold": 82,
+                "iridium": 110
             },
             "location": ["River", "Forest Pond", "Mountain Lake"],
             "season": "Winter",
             "weather": "Any"
         }, {
+            "id": 21,
             "name": "Pike",
             "price": {
                 "regular": 100,
@@ -232,6 +253,7 @@
             "season": ["Summer", "Winter"],
             "weather": "Any"
         }, {
+            "id": 22,
             "name": "Pufferfish",
             "price": {
                 "regular": 200,
@@ -243,6 +265,7 @@
             "season": "Summer",
             "weather": "Sunny"
         }, {
+            "id": 23,
             "name": "Rainbow Trout",
             "price": {
                 "regular": 65,
@@ -254,6 +277,7 @@
             "season": "Summer",
             "weather": "Sunny"
         }, {
+            "id": 24,
             "name": "Red Mullet",
             "price": {
                 "regular": 75,
@@ -265,6 +289,7 @@
             "season": ["Summer", "Winter"],
             "weather": "Any"
         }, {
+            "id": 25,
             "name": "Red Snapper",
             "price": {
                 "regular": 50,
@@ -276,6 +301,7 @@
             "season": ["Summer", "Fall", "Winter"],
             "weather": "Rain"
         }, {
+            "id": 26,
             "name": "Salmon",
             "price": {
                 "regular": 75,
@@ -287,6 +313,7 @@
             "season": "Fall",
             "weather": "Any"
         }, {
+            "id": 27,
             "name": "Sandfish",
             "price": {
                 "regular": 75,
@@ -298,6 +325,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 28,
             "name": "Sardine",
             "price": {
                 "regular": 40,
@@ -309,6 +337,7 @@
             "season": ["Spring", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 29,
             "name": "Scorpion Carp",
             "price": {
                 "regular": 150,
@@ -320,6 +349,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 30,
             "name": "Sea Cucumber",
             "price": {
                 "regular": 75,
@@ -331,6 +361,7 @@
             "season": ["Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 31,
             "name": "Shad",
             "price": {
                 "regular": 60,
@@ -342,6 +373,7 @@
             "season": ["Spring", "Summer", "Fall"],
             "weather": "Rain"
         }, {
+            "id": 32,
             "name": "Slimejack",
             "price": {
                 "regular": 100,
@@ -353,6 +385,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 33,
             "name": "Smallmouth Bass",
             "price": {
                 "regular": 50,
@@ -364,6 +397,7 @@
             "seasons": ["Spring", "Fall"],
             "weather": "Any"
         }, {
+            "id": 34,
             "name": "Squid",
             "price": {
                 "regular": 80,
@@ -375,6 +409,7 @@
             "season": "Winter",
             "weather": "Any"
         }, {
+            "id": 35,
             "name": "Stonefish",
             "price": {
                 "regular": 300,
@@ -386,6 +421,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 36,
             "name": "Sturgeon",
             "price": {
                 "regular": 200,
@@ -397,6 +433,7 @@
             "season": ["Summer", "Winter"],
             "weather": "Any"
         }, {
+            "id": 37,
             "name": "Sunfish",
             "price": {
                 "regular": 30,
@@ -408,6 +445,7 @@
             "season": ["Spring", "Summer"],
             "weather": ["Sunny","Windy"]
         }, {
+            "id": 38,
             "name": "Super Cucumber",
             "price": {
                 "regular": 250,
@@ -419,6 +457,7 @@
             "season": ["Summer", "Fall"],
             "weather": "Any"
         }, {
+            "id": 39,
             "name": "Tiger Trout",
             "price": {
                 "regular": 150,
@@ -430,6 +469,7 @@
             "season": ["Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 40,
             "name": "Tilapia",
             "price": {
                 "regular": 75,
@@ -441,6 +481,7 @@
             "season": ["Summer", "Fall"],
             "weather": "Any"
         }, {
+            "id": 41,
             "name": "Tuna",
             "price": {
                 "regular": 100,
@@ -452,6 +493,7 @@
             "season": ["Summer", "Winter"],
             "weather": "Any"
         }, {
+            "id": 42,
             "name": "Void Salmon",
             "price": {
                 "regular": 150,
@@ -463,6 +505,7 @@
             "season": ["Spring", "Summer", "Fall", "Winter"],
             "weather": "Any"
         }, {
+            "id": 43,
             "name": "Walleye",
             "price": {
                 "regular": 105,
@@ -474,6 +517,7 @@
             "season": ["Fall", "Winter"],
             "weather": "Rain"
         }, {
+            "id": 44,
             "name": "Woodskip",
             "price": {
                 "regular": 75,
