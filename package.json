@@ -1,11 +1,11 @@
 {
   "name": "sd-fishing-app",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
-  "description": "Small description for sd-fishing-app goes here",
+  "description": "An app that helps you calculate how much gold the fish in your inventory is worth",
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Melanie Sumner<melaniersumner@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -25,6 +25,7 @@
     "@glimmer/tracking": "^1.0.2",
     "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
+    "ember-a11y-testing": "^4.0.0",
     "ember-auto-import": "^1.6.0",
     "ember-cli": "~3.22.0",
     "ember-cli-app-version": "^4.0.0",
@@ -43,7 +44,6 @@
     "ember-resolver": "^8.0.2",
     "ember-source": "~3.22.0",
     "ember-template-lint": "^2.14.0",
-    "ember-welcome-page": "^4.0.0",
     "eslint": "^7.11.0",
     "eslint-plugin-ember": "^9.3.0",
     "eslint-plugin-node": "^11.1.0",
@@ -56,5 +56,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-cli-sass": "^10.0.1"
   }
 }
